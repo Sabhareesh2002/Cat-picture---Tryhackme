@@ -1,7 +1,6 @@
-![image](https://github.com/Sabhareesh2002/Cat-picture---Tryhackme/assets/75512455/301f7eea-8c78-44c1-83d7-344a47aa62d2)![image](https://github.com/Sabhareesh2002/Cat-picture---Tryhackme/assets/75512455/4402083f-7b78-435b-8db9-9a06f4b8cacd)# Cat-picture---Tryhackme
-
 
 Cat Pictures 2 Writeup
+
 This is a walkthrough of the Cat Pictures 2 CTF from TryHackMe. The room can be accessed here.
 
 Recon
@@ -16,6 +15,9 @@ The scan revealed the following open ports:
 1337 - OliveTin (Web interface to run predefined shell commands)
 3000 - Gitea (Lightweight DevOps platform)
 8080 - Nginx default webpage (Possibly with subdirectories)
+
+![image](https://github.com/Sabhareesh2002/Cat-picture---Tryhackme/assets/75512455/d2051fdc-db05-4bf4-9f99-d06dd6d542f4)
+
 Web Pages
 I began exploring the web applications hosted on different ports:
 
